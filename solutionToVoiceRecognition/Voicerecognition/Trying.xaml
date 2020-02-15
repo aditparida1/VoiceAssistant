@@ -1,0 +1,21 @@
+﻿<Window x:Class="Voicerecognition.Trying"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Trying" Height="300" Width="529.225">
+    <Grid>
+        <Grid.Resources>
+
+        </Grid.Resources>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="417,220,0,0" VerticalAlignment="Top" Width="75" Height="25">
+            <Button.Template>
+                <ControlTemplate>
+                    <Grid>
+                        <Ellipse Height="25" Width="75" Fill="#FFA0F112" />
+                        <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">Add me</ContentControl>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+    </Grid>
+</Window>

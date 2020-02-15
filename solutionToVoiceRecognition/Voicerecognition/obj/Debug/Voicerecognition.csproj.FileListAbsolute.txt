@@ -1,0 +1,57 @@
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.exe.config
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.exe
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.pdb
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.csprojResolveAssemblyReference.cache
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\MainWindow.baml
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\MainWindow.g.cs
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\App.g.cs
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition_MarkupCompile.cache
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.g.resources
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.Properties.Resources.resources
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.csproj.GenerateResource.Cache
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.exe
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.pdb
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Trying.baml
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\App.baml
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Trying.g.cs
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\AboutWindow.baml
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\AboutWindow.g.cs
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoRestart.baml
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoShutDown.baml
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoRestart.g.cs
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoShutDown.g.cs
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.exe.manifest
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.application
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.TrustInfo.xml
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.exe.manifest
+D:\VS projects\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.application
+D:\MyOwnApp\VoiceRecog\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.exe.config
+D:\MyOwnApp\VoiceRecog\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.exe
+D:\MyOwnApp\VoiceRecog\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.pdb
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.exe.config
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.exe.manifest
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.application
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.exe
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\bin\Debug\Voicerecognition.pdb
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.csprojAssemblyReference.cache
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\AboutWindow.baml
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Trying.baml
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoRestart.baml
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoShutDown.baml
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\App.baml
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\AboutWindow.g.cs
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Trying.g.cs
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoRestart.g.cs
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\YesNoShutDown.g.cs
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\App.g.cs
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition_MarkupCompile.cache
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.g.resources
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.Properties.Resources.resources
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.csproj.GenerateResource.cache
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.TrustInfo.xml
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.exe.manifest
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.application
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.exe
+C:\Users\User\Downloads\solutionToVoiceRecognition\solutionToVoiceRecognition\Voicerecognition\obj\Debug\Voicerecognition.pdb

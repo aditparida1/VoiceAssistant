@@ -1,0 +1,20 @@
+﻿<Window x:Class="Voicerecognition.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About " Height="202.448" Width="308.391" ResizeMode="NoResize" Icon="Icons/voice.ico" WindowState="Normal">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="83*"/>
+            <ColumnDefinition Width="437*"/>
+        </Grid.ColumnDefinitions>
+        <Image  Grid.Column="0" Source="Icons/adit.png" Stretch="Fill"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Height="173" TextWrapping="Wrap" VerticalAlignment="Top" Width="254">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE3EC33" Offset="0"/>
+                    <GradientStop Color="#FFEAD9D9" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Background><Run Text="&#x9;&#x9;Header"/><LineBreak/><Run Text="A beta Version is available......"/><LineBreak/><Run/><LineBreak/><Run Text=" Designer: Adit"/><LineBreak/><Run Text=" Coder: Adit"/><LineBreak/><Run Text=" Version : 1.0.0.0"/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Window>
